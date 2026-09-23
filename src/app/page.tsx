@@ -22,7 +22,7 @@ import Footer from "@/components/Footer";
 export default function Home() {
   return (
     <CurrencyProvider>
-      <div className="min-h-screen flex flex-col bg-[#faf8f5] text-[#121316] font-sans antialiased selection:bg-[#7c3aed] selection:text-white">
+      <div className="min-h-screen flex flex-col bg-[#EDE6D9] text-[#1F1F1D] font-sans antialiased selection:bg-[#E4572E] selection:text-white">
         {/* Navigation */}
         <Navbar />
 
