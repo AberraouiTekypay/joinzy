@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <defs>
+    <linearGradient id="joinzy-grad" x1="0" y1="0" x2="100" y2="100" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#7c3aed" />
+      <stop offset="100%" stop-color="#ff5733" />
+    </linearGradient>
+  </defs>
+  <rect width="100" height="100" rx="28" fill="#0f1117" />
+  <!-- Dynamic J loop with social node -->
+  <path d="M58 22H68V58C68 70.1503 58.1503 80 46 80H42C29.8497 80 20 70.1503 20 58V54H34V58C34 62.4183 37.5817 66 42 66H46C50.4183 66 54 62.4183 54 58V22H58Z" fill="url(#joinzy-grad)" />
+  <circle cx="68" cy="28" r="8" fill="#ff5733" />
+  <circle cx="34" cy="38" r="6" fill="#10b981" />
+</svg>
